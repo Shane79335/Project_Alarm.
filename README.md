@@ -35,5 +35,3 @@ Metrics
 ___________________________
 • Does Shane remember to turn the app on before beginning to study.
 
-• Judging by the logs does Shane frequently use the app.
-
